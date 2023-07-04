@@ -8,7 +8,7 @@
 import openai
 import requests
 
-openai.api_key = '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'
+openai.api_key = ''
 
 
 ########## phase 1 ##########
