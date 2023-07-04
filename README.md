@@ -46,6 +46,7 @@ I like to do things as they were done in the past?是，请输入Yes；否，请
 I avoid being alone?是，请输入Yes；否，请输入NoNo  
 ### phase 1：调用OPEN AI接口，输出MBTI以及对应的爱情观和适合的伴侣性格  
 您的MBTI类型是： ESTJ  
+  
 根据对于您性格的分析，您的爱情观与适合的伴侣性格为：  
 爱情观：爱情是建立在坚实的家庭价值、传统和忠诚之上的  
 适配人格：INTP，ISTP，ESTP，ENTP  
