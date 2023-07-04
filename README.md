@@ -47,8 +47,8 @@ I avoid being alone?是，请输入Yes；否，请输入NoNo
 ### phase 1：调用OPEN AI接口，输出MBTI以及对应的爱情观和适合的伴侣性格  
 **您的MBTI类型是：** INFJ  
 根据对于您性格的分析，您的爱情观与适合的伴侣性格为：  
-**爱情观：**爱情在我的脑海里，在我的心灵里，在我的灵魂里  
-**适配人格：**ENTP，INFP，ENFP，INTP  
+爱情观：爱情在我的脑海里，在我的心灵里，在我的灵魂里  
+适配人格：ENTP，INFP，ENFP，INTP  
 ### phase 2：输入A与B的MBTI类型，以及A与B的聊天记录  
 请输入对话人A的MBTI类型：ENTJ  
 请输入对话人B的MBTI类型：ENFP  
