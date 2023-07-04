@@ -23,8 +23,8 @@ _______ 是一款AIGC与MBTI相结合的性格测试交互产品
 
 ## 效果展示
 ### phase 1：用户输入选择题答案
-I try not to draw attention to myself?是，请输入Yes；否，请输入NoNo \n
-I feel uncomfortable when I disagree with someone?是，请输入Yes；否，请输入NoNO
+I try not to draw attention to myself?是，请输入Yes；否，请输入NoNo  
+I feel uncomfortable when I disagree with someone?是，请输入Yes；否，请输入NoNO  
 I lose my belongings?是，请输入Yes；否，请输入NoYes
 I have a vivid imagination?是，请输入Yes；否，请输入NoYes
 I would enjoy attending a large party in my honor?是，请输入Yes；否，请输入NoNo
