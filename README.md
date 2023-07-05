@@ -19,27 +19,27 @@ _______ 是一款AIGC与MBTI相结合的性格测试交互产品
 
 ## 效果展示
 ### Phase 1：用户输入选择题答案  
-I try not to draw attention to myself?是，请输入Yes；否，请输入NoNo  
-I feel uncomfortable when I disagree with someone?是，请输入Yes；否，请输入NoNo  
-I lose my belongings?是，请输入Yes；否，请输入NoYes  
-I have a vivid imagination?是，请输入Yes；否，请输入NoYes  
-I would enjoy attending a large party in my honor?是，请输入Yes；否，请输入NoNo  
-I dislike being in competition with others?是，请输入Yes；否，请输入NoNo  
-I prefer to follow a schedule?是，请输入Yes；否，请输入NoYes  
-I question the wisdom of my elders?是，请输入Yes；否，请输入NoNo  
-I enjoy being the center of attention?是，请输入Yes；否，请输入NoYes  
-I try to avoid conflict?是，请输入Yes；否，请输入NoNo  
-I make sure my work is finished on time?是，请输入Yes；否，请输入NoYes  
-It is important to me to follow traditions?是，请输入Yes；否，请输入NoNo  
-I make an effort to be popular?是，请输入Yes；否，请输入NoYes  
-I sympathize with the homeless?是，请输入Yes；否，请输入NoNo   
-I have trouble controlling my impulses?是，请输入Yes；否，请输入NoNo  
-I think about why people do the things they do?是，请输入Yes；否，请输入NoYes  
-Being around lots of people energizes me?是，请输入Yes；否，请输入NoNo  
-I am helpful to the people around me?是，请输入Yes；否，请输入NoNo  
-I am ambitious?是，请输入Yes；否，请输入NoYes  
-I like to do things as they were done in the past?是，请输入Yes；否，请输入NoNo  
-I avoid being alone?是，请输入Yes；否，请输入NoNo  
+- I try not to draw attention to myself?是，请输入Yes；否，请输入No 
+- I feel uncomfortable when I disagree with someone?是，请输入Yes；否，请输入No  
+- I lose my belongings?是，请输入Yes；否，请输入No 
+- I have a vivid imagination?是，请输入Yes；否，请输入No 
+- I would enjoy attending a large party in my honor?是，请输入Yes；否，请输入No  
+- I dislike being in competition with others?是，请输入Yes；否，请输入No 
+- I prefer to follow a schedule?是，请输入Yes；否，请输入No 
+- I question the wisdom of my elders?是，请输入Yes；否，请输入No 
+- I enjoy being the center of attention?是，请输入Yes；否，请输入No  
+- I try to avoid conflict?是，请输入Yes；否，请输入No  
+- I make sure my work is finished on time?是，请输入Yes；否，请输入No  
+- It is important to me to follow traditions?是，请输入Yes；否，请输入No  
+- I make an effort to be popular?是，请输入Yes；否，请输入No  
+- I sympathize with the homeless?是，请输入Yes；否，请输入No   
+- I have trouble controlling my impulses?是，请输入Yes；否，请输入No  
+- I think about why people do the things they do?是，请输入Yes；否，请输入No  
+- Being around lots of people energizes me?是，请输入Yes；否，请输入No  
+- I am helpful to the people around me?是，请输入Yes；否，请输入No  
+- I am ambitious?是，请输入Yes；否，请输入No  
+- I like to do things as they were done in the past?是，请输入Yes；否，请输入No  
+- I avoid being alone?是，请输入Yes；否，请输入No  
 ### Phase 2：调用OPEN AI接口，输出MBTI以及对应的爱情观和适合的伴侣性格  
 **您的MBTI类型是：** INFJ  
 根据对于您性格的分析，您的爱情观与适合的伴侣性格为：  
