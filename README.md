@@ -1,5 +1,5 @@
 # AIGC-MBTI
-项目主页：https://www.architectfuture.cn/aigcmbti
+项目主页：https://www.architectfuture.cn
 
 ## 简介
 【AI爱测爱配】是一款AIGC与MBTI相结合的性格测试交互产品
