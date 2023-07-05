@@ -1,5 +1,4 @@
 # AIGC-MBTI
-面向下沉市场：AIGC与MBTI结合性格测试交互产品
 
 ## 简介
 【AI爱测爱配】是一款AIGC与MBTI相结合的性格测试交互产品
