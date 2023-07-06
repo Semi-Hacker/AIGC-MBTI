@@ -2,7 +2,7 @@
 项目主页：https://www.architectfuture.cn
 
 ## 简介
-【AI爱测爱配】是一款AIGC与MBTI相结合的性格测试交互产品
+【AI爱测爱配】是一款AIGC与MBTI相结合的性格测试交互产品。
 我们希望MBTI等心理测试和性格测试以及AIGC，触达更多未被触达的人群（Accessible to More People）
 ![image](https://github.com/Semi-Hacker/AIGC-MBTI/assets/138411034/91783d1f-346a-43d8-bae5-62d61b1c0dde)
 
